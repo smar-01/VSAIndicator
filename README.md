@@ -1,6 +1,7 @@
 # VSAIndicator
 
 A project forked from @neurotrader
+
 This will be improved and used as a base for other projects
 
 Volume Spread Analysis indicator in Python. 
